@@ -49,8 +49,8 @@
   version: '1.16.5',
 })`
  
- Replace in `ip.aternos` with the IP of your server.
- In `port` you must change the `25565` for the port of your server, if not, it appears in the main menu of the server,
+ Replace in `ip.93171-ruGX.aternos.me` with the IP of your server.
+ In `port` you must change the `19132` for the port of your server, if not, it appears in the main menu of the server,
  You can replace the `username`, in this case `BOTJIN` with whatever name you want.
 
  5. Start the aternos server.
@@ -95,8 +95,8 @@
   version: '1.16.5',
 })`
  
- Reemplaza en `ip.aternos` por la ip de tu servidor.
- En `port` deberás cambiar el `25565` por el puerto de tu servidor, en caso de aternos, aparece en el menú principal del servidor,
+ Reemplaza en `ip.93171-ruGX.aternos.me` por la ip de tu servidor.
+ En `port` deberás cambiar el `19132` por el puerto de tu servidor, en caso de aternos, aparece en el menú principal del servidor,
  Puedes reemplazar el `username`, en este caso `BOTJIN` por el nombre que desees.
 
  5. Inicia el servidor de aternos.
